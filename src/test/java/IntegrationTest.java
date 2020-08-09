@@ -50,3 +50,4 @@ public class IntegrationTest extends BaseClass {
         Assert.assertEquals("Yours Truly", jp.get("slideshow.author").toString());
     }
 }
+
